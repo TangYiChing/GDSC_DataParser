@@ -35,7 +35,7 @@ DB_FILE = {'MODEL':'model_list_20200204.csv',
 
 ```
 
-type $python useCCLE.py to generate the following files in a tidy format ready for analysis
+type $python useGDSC.py to generate the following files in a tidy format ready for analysis
 
 ```{python}
 gene expression: cell line by gene matrix
